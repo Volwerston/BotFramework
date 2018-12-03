@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.136
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieGluClient.Test", "MovieGluClient.Test\MovieGluClient.Test.csproj", "{C4FA38CC-40F6-49FB-A5E7-53515E6078E8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmptyBot", "Cinematograph_Bot\EmptyBot\EmptyBot.csproj", "{8F91A2EE-A5A5-49A0-A0BA-B9D4DDA6F71E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{C4FA38CC-40F6-49FB-A5E7-53515E6078E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C4FA38CC-40F6-49FB-A5E7-53515E6078E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C4FA38CC-40F6-49FB-A5E7-53515E6078E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F91A2EE-A5A5-49A0-A0BA-B9D4DDA6F71E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F91A2EE-A5A5-49A0-A0BA-B9D4DDA6F71E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F91A2EE-A5A5-49A0-A0BA-B9D4DDA6F71E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F91A2EE-A5A5-49A0-A0BA-B9D4DDA6F71E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
